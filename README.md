@@ -38,7 +38,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e trabalho com adminis
 ---
 
 ### 💬 Contato:
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-marcus-kohn-aguiar-926413218)
-- 📧 [leonardok.aguiar@yahoo.com.br](mailto:leonardok.aguiar@yahoo.com.br)
+- [LinkedIn](https://www.linkedin.com/in/leonardo-marcus-kohn-aguiar-926413218)
+- [leonardok.aguiar@yahoo.com.br](mailto:leonardok.aguiar@yahoo.com.br)
 
 ![Animação Snake](https://github.com/Leodf/Leodf/blob/output/github-contribution-grid-snake.svg)
